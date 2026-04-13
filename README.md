@@ -29,6 +29,7 @@ It documents the tools I installed, the steps I completed, and the one issue I r
 ## Issues & How I Solved Them
 
 **Network restriction blocking GitHub access**
+
 I'm currently working from my company's PC, which restricts access to GitHub by default. I noticed the connection was being blocked and resolved it by enabling **Cloudflare WARP**, a lightweight VPN/network tool, which restored my GitHub access and allowed me to continue without further interruption.
 
 ---
