@@ -1,0 +1,43 @@
+# LinkedIn Post: Josh Braun
+
+**Source URL:** https://www.linkedin.com/posts/josh-braun_sales-truth-the-moment-prospects-feel-activity-7449872062367797248-xjLR
+
+---
+
+Sales truth: 
+
+The moment prospects feel threatened, judged or blamed they enter the Zone of Resistance.
+
+Self-preservation grabs the wheel.
+
+That’s why the harder you push, the more they pull away.
+
+The prospect starts protecting:
+their decisions
+their process
+their team
+their identity
+their competence
+
+That’s why rebuttals fail.
+Handling objections sounds like: 
+
+“I’m right and you’re wrong”
+
+So their mind shifts from listening to shielding.
+
+A better move?
+
+Reduce threat.
+
+Try:
+
+“Sounds like there’s a reason for that.”
+“The thought of changing this right now feels like a lot.”
+“Guessing that’s been working perfectly for you so far.”
+
+Now they feel understood instead of challenged.
+
+And when defense drops, curiosity can come back.
+
+A guarded mind cannot be curious.
