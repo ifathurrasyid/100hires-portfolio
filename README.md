@@ -1,39 +1,44 @@
-# 100Hires Portfolio Project
+# 100Hires Portfolio: Cold Outreach Research Pipeline
 
-## Overview
-This repository is the first step of my application process with 100Hires.
-It documents the tools I installed, the steps I completed, and the one issue I ran into along the way.
-
----
-
-## Tools Installed
-
-- **Cursor IDE** — AI-powered code editor ([cursor.com](https://cursor.com/))
-- **Claude Code for VS Code** — Anthropic's official extension for AI-assisted development, installed via Cursor's Extensions panel
-- **Codex** — AI coding assistant, installed via Cursor's Extensions panel
+## Project Overview
+This repository serves as a technical portfolio and research hub for the 100Hires application process. The current phase focuses on building an automated ETL (Extract, Transform, Load) pipeline to gather high-signal data on **B2B SaaS Cold Outreach** from top industry practitioners.
 
 ---
 
-## Steps Completed
+## Technical Architecture & Decision Logic
 
-1. Downloaded and installed Cursor IDE
-2. Connected my GitHub account to Cursor
-3. Installed the Claude Code and Codex extensions via the Extensions panel (`Ctrl+Shift+X`)
-4. Created this public GitHub repository
-5. Cloned the repository and opened it in Cursor
-6. Created this README.md file
-7. Committed and pushed changes to GitHub
+As a data analyst, I’ve prioritized system resilience and scalability over "quick" solutions. Key architectural choices include:
 
----
-
-## Issues & How I Solved Them
-
-**Network restriction blocking GitHub access**
-
-I'm currently working from my company's PC, which restricts access to GitHub by default. I noticed the connection was being blocked and resolved it by enabling **Cloudflare WARP**, a lightweight VPN/network tool, which restored my GitHub access and allowed me to continue without further interruption.
+* **Extraction Method:** Pivoted from third-party APIs (Supadata) to a native Python implementation using `youtube-transcript-api` and `scrapetube`. This removed dependency on API keys and rate limits, allowing for a more stable, production-ready pipeline.
+* **Workflow Environment:** Used **Jupyter Notebooks (.ipynb)** within VS Code for the extraction process. This allows for state management (fetching data once and keeping it in memory) to prevent unnecessary pings to YouTube’s backend while fine-tuning the transformation logic.
+* **Separation of Concerns:** Organized the repository to separate logic from data.
+    * `/scripts/`: Contains the ETL logic and extraction notebooks.
+    * `/research/`: Dedicated storage for the final curated data and source documentation.
 
 ---
 
-## Notes
+## Current Progress
 
-This repository will continue to be updated as I progress through the next steps of the 100Hires application process.
+### Phase 1: Environment Setup (Completed)
+- [x] Configured Cursor IDE with Claude Code and Codex.
+- [x] Established GitHub version control and remote repository.
+- [x] Resolved corporate network restrictions using Cloudflare WARP.
+
+### Phase 2: Research & Extraction (In Progress)
+- [x] **Expert Selection:** Curated a list of 10 practitioners focused on systems-based outreach logic (see `research/sources.md`).
+- [x] **YouTube ETL Pipeline:** Built an automated script to scan channels, fetch transcripts, and format them into standardized Markdown files.
+- [ ] **LinkedIn Pipeline:** Currently designing a "Smart Manual" extraction process to safely capture high-value posts without triggering platform anti-bot protocols.
+
+---
+
+## Repository Structure
+
+```text
+100hires-portfolio/
+├── scripts/
+│   └── youtube_etl.ipynb      # Automated YouTube extraction logic
+├── research/
+│   ├── sources.md             # Curated list of 10 experts & justifications
+│   ├── youtube-transcripts/   # Formatted output from the ETL pipeline
+│   └── linkedin-posts/        # (Upcoming) Structured LinkedIn data
+└── README.md
