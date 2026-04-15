@@ -243,20 +243,36 @@ If you've been wondering what it looks like to integrate AI into daily sales wit
 hashtag#whoiscomingwithme hashtag#figureitout hashtag#makeithappen
 ===END===
 
-AUTHOR: Nick Abraham
-URL: https://www.linkedin.com/posts/nick-abraham_i-dont-care-how-good-ai-gets-nobody-will-activity-7449803861009219584-Gm5D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+AUTHOR: Florin Tatulea
+URL: https://www.linkedin.com/posts/florintatulea_using-assumptive-tones-in-your-emails-is-activity-7449484856746762240-j_Q0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
 POST:
-I don't care how good AI gets. Nobody will buy a 12-month, $500,000-per-year deal from an AI agent. 
+Using assumptive tones in your emails is turning your buyers off and killing your reply rates.
 
-I keep seeing this narrative that vendor decisions will be made agent-to-agent, and I just don’t buy it, for a few reasons:
+It's something I didn't even realize I was doing and makes sense when thinking it through as a buyer myself. 
 
-1. I get that AI is great, but is it great enough to trust it with $500K+ of budget and 0 human oversight? No.
+💜 🔮 Will Allred and team have the data.
 
-2. I’m sure it can help evaluate vendors, but weighing purchase decisions like is something you want humans to be more available to do, because of the complexities involved in the deal.
+If you are using AI Agents, you should add an instruction to make sure that copy isn't assumptive like below:
 
-3. Most importantly: the second we get to a point where agents are buying from other agents, we’ll see a whole new industry of “agent gamification” arise (i.e. I tell my agent what to say to make yours buy from mine), leading to a whole host of legal disputes.
+A lot of the times in emails to prospects we use strong assumptive language like:
 
-There’s lots of change coming, but ENT sellers will not get the brunt of it.
+-I saw you're hiring. According to {blog}, X% of new sales hires don't hit quota.
+
+-Noticed that while XYZ as an org has been increasing headcount overall, the engineering team has lost a few members in the past year
+
+-It costs about $40k per head to hire an engineer and almost all heads of engineering I speak with are behind on hiring, and it's why retention is critical
+
+The problem with this type of language is that you are a random person in a buyers inbox and the buyer is thinking... "Who the hell is this person, telling me about my business with no context?".
+
+A better approach is to use softer or an "unsure" tone. Here's some examples:
+
+-I saw you might be hiring. I could be wrong, but are you starting to think about ramp?
+
+-I might be off here, but it looks like although your org has been increasing headcount overall, the engineering team has lost a few members in the past year
+
+-This might not be the case for you, but It typically costs about $40k per head to hire an engineer and it's common for most heads of engineering to be behind on hiring
+
+Words like "might", "typically", "it's common" soften the email and get's more replies.
 ===END===
 
 AUTHOR: Becc Holland
@@ -499,5 +515,5 @@ You tell it your ICP and value prop, it builds the emails and tells you what to 
 
 Grab it here for free: https://hubs.la/Q045ZYrR0
 
-hashtag#sales
+#sales
 ===END===

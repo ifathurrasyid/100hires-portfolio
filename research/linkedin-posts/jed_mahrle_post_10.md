@@ -41,4 +41,4 @@ You tell it your ICP and value prop, it builds the emails and tells you what to 
 
 Grab it here for free: https://hubs.la/Q045ZYrR0
 
-hashtag#sales
+#sales

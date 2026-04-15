@@ -1,36 +1,153 @@
 # LinkedIn Post: Becc Holland
 
-**Source URL:** https://www.linkedin.com/posts/beccholland-flipthescript_i-had-so-much-fun-at-utd-last-week-that-activity-7449888295595024385-WnOU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+**Source URL:** https://www.linkedin.com/posts/beccholland-flipthescript_hyper-personalization-doesnt-exist-activity-7440440705434583040-12mL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
 
 ---
 
-I had so much fun at UTD last week…. That I just HAD to come back today, for Part 2. 🙂
-
-Massive thank you to Semiramis (Semira) Amirpour for everything— & having me in her Advanced Sales class this AM.
+“Hyper-personalization”….. doesn’t exist. 
 
 
+Personalization is 1:1. 
+EX. I saw when you said “__”
 
-The students were firing off answers so quickly, it made me excited to see where they take the field…. 
+Relevance is 1:many. 
+…. Like a “cohort”. 
 
-
-How they grow it.
-
-And what they turn what it means to be a seller into, over the next 20 years.
+EX. Content downloads. Or CTOs. 
 
 
 
-Pic below of us, after class—
+If you can send the same email to 2 peeps...
 
-Me grinning like a dummy from ear to ear, because of who I’m standing next to.
-
-
-
-
-That’s it! :)
-Hope everyone’s having a great week.
-
-And that something this week, made you fall in love with our field all over again—
+Then it's relevance-based.
+Not personalized.
 
 
 
-Because what’s NOT to love, right? 🙂
+There’s 4 relevance-types.
+
+▪️ Firmographic—relative to business traits. (EX. Segment, size)
+▪️ Demographic—relative to human traits. (EX. Role.)
+▪️ Technographic—relative to techstack. (EX. Outreach users)
+
+& last but not least, trigger- based relevance. 
+
+
+There’s 3 main triggers:
+▪️ Inbound: Hand-raisers.
+(demo-requests)
+
+▪️ Postbound: non hand-raising, marketing actions.
+(content downloads)
+
+▪️ Bridgebound— Someone where an action occured, NOT re:your marketing.
+(buyers who changed orgs)
+
+
+
+
+In my view, in cold emails: “demographic relevance” (their role), is table stakes. 
+
+Meaning it's centered on THEIR metrics. & finding unknowns, in regards to those metrics.
+
+EX. a CFO= gross profit margin. & solves problems regarding it.
+
+
+
+
+when you start to get good...
+is when you add in techno/firmographic.
+
+get great??
++ trigger-based relevance. 
+
+
+But when you get REAL results, is when you use personalization. 
+
+
+
+
+
+In 2026, personalization isn’t a luxury. Or a unicorn that you “should do, if you can”. 
+
+It’s a must. 
+
+
+In part, because it shows respect.
+In part, because it shows research. & investment.
+In part, because it builds credibility. 
+
+
+But mostly, because it interrupts the pattern. 
+
+
+
+The pattern of 99% of emails, is 1:many... Not 1:1.
+
+Even with AI.
+AI can’t:
+
+— Pick the best personalization.
+— Or meaningful personalization.
+— Pick in-depth personalization.
+— “Hook” it, to relevance.
+
+
+For the "how":
+If you want to combo the 2 most basic ingredients (personalization + role relevance), the formula is...
+
+1st line = personalization. (w/ a title + a specific line)
+
+2nd= 5 word hook + a question that (potentially) diagnoses a problem, that they likely have, & likely don’t know about.
+
+NOT a “do you struggle with low open rates, & long sales cycles?”
+
+If they already know about it...
+But haven't moved yet: It's because it's not worth it. (based on what they know) 
+
+
+
+
+
+To pump up the volume w/ a 3rd (+ trigger based)...
+
+1st line= trigger + “but more importantly” + personalization.
+EX. I saw you downloaded __, but more importantly, saw your article on __. 
+
+2nd line, is same above. 
+
+
+
+
+More below.
+The 1-sheeter w/ 139 triggers, at the end.
++ 6 personalization buckets.
+
+
+
+Bon courage a tous, out there.🙂
+
+
+Don’t believe the dross that “personalization isn’t scalable”..
+Or “it’s only for enterprise accounts”. 
+
+
+Personalization, is for reps who want results.
+
+
+
+
+This isn’t about showing them that we know them.
+
+It's about showing them that we know something ABOUT them..
+that they don’t already know.
+
+& finding a goblin, they're unaware of. 👹
+
+
+
+Off the soap box for me.
+I’ll stop ranting now, promise. 🙂
+
+But THAT’s sales.
+That’s the type of rep, that we should & can be. :)

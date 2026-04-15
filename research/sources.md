@@ -1,35 +1,55 @@
 # Research Sources: Cold Outreach Experts
 
-Below is the list of 10 experts I selected for the B2B SaaS cold outreach project. Coming from a data analytics background, I intentionally bypassed generic sales influencers. Instead, I focused on practitioners who treat outbound pipeline as a quantifiable, technical system. 
+Below is the list of 10 practitioners selected for the B2B SaaS cold outreach research project. Selected experts were chosen for their focus on technical, quantifiable outbound systems rather than generic sales motivation.
 
-Here is the breakdown of the experts and why they were selected:
+### Expert Directory
 
 1. **John Barrows (JB Sales)**
-   - *Reason:* He provides the foundational, enterprise-level strategy. He has trained teams at Salesforce and LinkedIn, making his frameworks a reliable baseline for the rest of the research.
+   - **Annotation:** Focuses on executive-level personality mapping and "operating systems" for sales reps.
+   - **LinkedIn Post Date:** April 14, 2026 | [Source](https://www.linkedin.com/posts/johnbarrows_whoiscomingwithme-figureitout-makeithappen-activity-7449798529570607104-235V)
+   - **YouTube Video Date:** April 10, 2026 | [Transcript File](./youtube-transcripts/john_barrows_yo0uF68CeYc.md)
 
 2. **Will Allred (Lavender)**
-   - *Reason:* He brings hard data to the table. As the co-founder of Lavender, he publishes benchmarks based on millions of emails, proving exactly how variables like word count affect reply rates.
+   - **Annotation:** Provides data-backed benchmarks for email psychology and deliverability.
+   - **LinkedIn Post Date:** April 13, 2026 | [Source](https://www.linkedin.com/posts/williamallred_the-product-lead-for-internal-ai-at-ramp-activity-7449516774116454400-ubCu)
+   - **YouTube Video Date:** April 12, 2026 | [Transcript File](./youtube-transcripts/will_allred_QLlLDJvaaJA.md)
 
 3. **Josh Braun (Braun Training)**
-   - *Reason:* His focus is on buyer psychology and reducing "friction." His methods are highly practical for optimizing top-of-funnel conversion rates.
+   - **Annotation:** Expert in creating "curiosity gaps" to address buyer indecision.
+   - **LinkedIn Post Date:** April 15, 2026 | [Source](https://www.linkedin.com/posts/josh-braun_good-cold-emails-create-a-question-the-mind-activity-7449884988268883968-wdiJ)
+   - **YouTube Video Date:** April 13, 2026 | [Transcript File](./youtube-transcripts/josh_braun_hpXev0vUcvQ.md)
 
-4. **Guillaume Moubeche (Lemlist)**
-   - *Reason:* As the CEO of Lemlist, he regularly shares raw A/B test results and conversion metrics from his own company’s multi-channel campaigns. 
+4. **Eric Nowoslawski (Growth Engine)**
+   - **Annotation:** Technical specialist in intent-signal testing and TAM pattern recognition.
+   - **LinkedIn Post Date:** April 10, 2026 | [Source](https://www.linkedin.com/posts/outboundphd_last-quarter-a-client-asked-me-which-intent-activity-7447633136752066560-kuK9)
+   - **YouTube Video Date:** March 26, 2026 | [Transcript File](./youtube-transcripts/eric_nowoslawski_QyCqMpivjlA.md)
 
 5. **Becc Holland (Flip the Script)**
-   - *Reason:* She engineers highly structured frameworks for prospect research. I included her because she successfully turns a highly manual task into a measurable, repeatable system.
+   - **Annotation:** Structured taxonomy for personalization and role-based relevance.
+   - **LinkedIn Post Date:** April 5, 2026 | [Source](https://www.linkedin.com/posts/beccholland-flipthescript_hyper-personalization-doesnt-exist-activity-7440440705434583040-12mL)
+   - **YouTube Video Date:** April 2, 2026 | [Transcript File](./youtube-transcripts/becc_holland_y6CO23qfRDM.md)
 
 6. **Jason Bay (Outbound Squad)**
-   - *Reason:* He breaks down multi-touch outbound sequences step-by-step. His YouTube channel is an excellent source of deep, technical workflow tutorials.
+   - **Annotation:** Focuses on multi-touch sequence architecture and AI-agent integration.
+   - **LinkedIn Post Date:** April 11, 2026 | [Source](https://www.linkedin.com/posts/jasondbay_if-youre-still-using-ai-chats-instead-activity-7448384317367660544-wmk4)
+   - **YouTube Video Date:** March 15, 2026 | [Transcript File](./youtube-transcripts/jason_bay_qc2IY_pNXhE.md)
 
-7. **Alex Berman (Omni.us)**
-   - *Reason:* He focuses on the mechanics of high-volume cold email systems and scaling outbound tactics effectively.
+7. **Charlotte Johnson**
+   - **Annotation:** Tactical practitioner focusing on "double trigger" JD-based personalization.
+   - **LinkedIn Post Date:** April 8, 2026 | [Source](https://www.linkedin.com/posts/charlotte-johnson-932524109_gtmworkspace-sales-zoominfopartner-activity-7442907471972581376-ekiZ)
+   - **YouTube Video Date:** July 29, 2025 | [Transcript File](./youtube-transcripts/charlotte_johnson_Z5mwjeM4YZA.md)
 
-8. **Jeremy Chatelaine (QuickMail)**
-   - *Reason:* A pipeline only works if the emails actually land in the inbox. As QuickMail's CEO, he covers the critical technical infrastructure of outreach, like deliverability and DNS records.
+8. **Armand Farrokh (30 Minutes to President's Club)**
+   - **Annotation:** Specializes in cold call decision trees and objection handling workflows.
+   - **LinkedIn Post Date:** April 12, 2026 | [Source](https://www.linkedin.com/posts/armand-farrokh_not-interested-is-the-1-objection-on-a-cold-activity-7443350253627572224-6WB9)
+   - **YouTube Video Date:** April 14, 2026 | [Transcript File](./youtube-transcripts/armand_farrokh_T73wbqNQiO0.md)
 
-9. **Nick Abraham (Scrubby)**
-   - *Reason:* He builds complex, AI-powered outbound pipelines. His approach is highly technical, using APIs and LLMs to handle data enrichment and personalization at scale.
+9. **Florin Tatulea**
+   - **Annotation:** Uses A/B test data to optimize script formatting and conversational tone.
+   - **LinkedIn Post Date:** April 14, 2026 | [Source](https://www.linkedin.com/posts/florintatulea_using-assumptive-tones-in-your-emails-is-activity-7449484856746762240-j_Q0)
+   - **YouTube Video Date:** January 8, 2026 | [Transcript File](./youtube-transcripts/florin_tatulea_j2z-PISTO9c.md)
 
 10. **Jed Mahrle (Practical Prospecting)**
-    - *Reason:* He represents modern SDR operations. He focuses on analyzing statistical patterns in manual outreach before automating them, which aligns perfectly with a data-driven approach.
+    - **Annotation:** Analyzes statistical patterns in manual outreach before automating.
+    - **LinkedIn Post Date:** April 11, 2026 | [Source](https://www.linkedin.com/posts/outboundsales_sell-better-activity-7448354351095635969-proP)
+    - **YouTube Video Date:** April 5, 2026 | [Transcript File](./youtube-transcripts/jed_mahrle_LbySFKzcGW0.md)
