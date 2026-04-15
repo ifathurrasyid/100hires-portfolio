@@ -1,41 +1,503 @@
 AUTHOR: Josh Braun
-URL: https://www.linkedin.com/posts/josh-braun_sales-truth-the-moment-prospects-feel-activity-7449872062367797248-xjLR
+URL: https://www.linkedin.com/posts/josh-braun_good-cold-emails-create-a-question-the-mind-activity-7449884988268883968-wdiJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
 POST:
-Sales truth: 
+Good cold emails create a question the mind wants answered.
 
-The moment prospects feel threatened, judged or blamed they enter the Zone of Resistance.
+Take this line:
 
-Self-preservation grabs the wheel.
+“How are you ensuring your car wash mitt won’t scratch your Audi S4?”
 
-That’s why the harder you push, the more they pull away.
+Now the mind pauses.
 
-The prospect starts protecting:
-their decisions
-their process
-their team
-their identity
-their competence
+“Wait… that’s a thing? Better keep reading."
 
-That’s why rebuttals fail.
-Handling objections sounds like: 
+That pause is curiosity.
 
-“I’m right and you’re wrong”
+Great cold emails don’t start with what you sell.
 
-So their mind shifts from listening to shielding.
+Why?
 
-A better move?
+What you sell has no value without a problem.
 
-Reduce threat.
+Good cold emails start with illuminating a blind spot.
 
-Try:
+A hidden cost.
+An unseen downside.
+A risk of doing nothing.
 
-“Sounds like there’s a reason for that.”
-“The thought of changing this right now feels like a lot.”
-“Guessing that’s been working perfectly for you so far.”
+The moment someone thinks:
 
-Now they feel understood instead of challenged.
+“Hold on… I might be missing something…”
 
-And when defense drops, curiosity can come back.
+they lean forward.
 
-A guarded mind cannot be curious.
+If there’s no tension, there’s no attention.
+===END===
+
+AUTHOR: Eric Nowoslawski
+URL: https://www.linkedin.com/posts/outboundphd_last-quarter-a-client-asked-me-which-intent-activity-7447633136752066560-kuK9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+Last quarter a client asked me which intent signal they should use. Hiring data? Funding? Website visits?
+
+I told them to use all of them, but not how they expected.
+
+Most people pick one signal, build a campaign around it, and pray. That's backwards. You don't know which signal predicts a response until you let the data tell you.
+
+Here's the framework we use across 50+ clients.
+
+Run 3 campaigns at once:
+
+1. Entire TAM. No signals. Just firmographics. This is your baseline — and sometimes it wins.
+
+2. Focused segments. One signal per campaign. Hiring SDRs. Recently funded. Using a competitor tool.
+
+3. Trigger-based. Real-time events. Job posting today. Funding this week. Website visit yesterday.
+
+Now here's the move nobody talks about.
+
+Every positive response across all 3, take that company and run it through every signal source you have. Pull hiring data, tech stack, funding history, news, social activity. Everything.
+
+Look for patterns.
+
+Maybe the companies that respond all hired a VP of Sales in the last 90 days. Maybe they all use HubSpot. Maybe they all posted about a specific pain point on LinkedIn.
+
+You wouldn't have found that by guessing upfront.
+
+We also run a catchall workflow in Clay with Clayagent, every signal we can think of, just "what's notable about this company right now?" Sometimes the signal that predicts responses is something you'd never think to look for.
+
+Sometimes you genuinely don't know WHY someone responded. That's fine. Not every response has a readable signal. But the ones that do give you your next 10 campaigns.
+
+Stop picking signals from a menu. Let the data tell you what works.
+===END===
+
+AUTHOR: Jason Bay
+URL: https://www.linkedin.com/posts/jasondbay_if-youre-still-using-ai-chats-instead-activity-7448384317367660544-wmk4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+If you're still using "AI chats" instead of "AI agents"—you're officially getting left behind. 
+
+Chats were all the rage in 2025. 
+
+They relied on prompting. You'd see guides dozens of pages long containing prompts to:
+
+- Do account research
+- Write cold emails
+- Create messaging
+etc.
+
+
+⛔️ The major cons of only using "AI chats"
+
+• Little built-in memory, relies on heavy prompting
+• Completely reactive, only responds when you prompt
+• Not great at large, complex tasks
+
+
+✅ The major pros of "AI agents"
+
+• Knowledge compounds over time: the more you wire in, the more it knows how to help.
+• Can run proactively and on autopilot
+• Can chain multiple tasks together
+
+
+This is the future of work. High-level tasks completed without prompts.
+
+Now how it affects the future of the sales org? TBD. I think we're going to see a lot more adoption at the org level. AI agents doing work behind the scenes so that the reps never even have to interact with it.
+
+The best thing you can do is sign up for a Perplexity Computer or Claude Cowork account. And start using it. 
+
+Pay for it out of pocket if you need to. 
+
+
+----------------
+
+
+P.S. This vibe coding thing is real. In about 4-5 hours last weekend, I created an internal tool to manage our client delivery.
+
+We tried HubSpot. We tried Asana. Nothing worked, so we resorted to a gnarly-looking Google Sheet (sorry Clara Johnson).
+
+Now we have a fully customized, zero-upkeep solution.
+===END===
+
+AUTHOR: Charlotte Johnson
+URL: https://www.linkedin.com/posts/charlotte-johnson-932524109_gtmworkspace-sales-zoominfopartner-activity-7442907471972581376-ekiZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+Average reply rates right now are what… 1–3%?
+
+Back in 2020, they were significantly higher.
+
+Either way - it’s clear:
+reply rates are harder to come by.
+
+AI, spam filters… sure.
+
+But honestly, a lot of the messaging I’m seeing isn’t helping:
+→ “your sales team has grown 14%”
+→ “noticed you’re hiring an IT leader”
+→ “congrats on the recent funding”
+
+It’s all… vanilla.
+
+Surface-level “personalisation” that doesn’t actually mean anything.
+
+Butttt that doesn’t mean we should spend hours researching every account either.
+
+It just means we need to be smarter about what we personalise on.
+
+What’s working for me right now = doubling up triggers.
+
+ZoomInfo makes this easy to find at scale (see image 👇)
+
+The 2 I’m using most:
+
+1) Hiring (but going deeper)
+Not just the role - the job description:
+→ protecting critical apps
+→ ransomware
+→ disaster recovery
+
+2) Industry context
+Using real examples of what’s happening to similar companies.
+
+So instead of:
+“𝘯𝘰𝘵𝘪𝘤𝘦𝘥 𝘺𝘰𝘶’𝘳𝘦 𝘩𝘪𝘳𝘪𝘯𝘨…”
+
+It becomes:
+“𝘛𝘩𝘦 𝘐𝘛 𝘳𝘰𝘭𝘦 𝘺𝘰𝘶’𝘳𝘦 𝘩𝘪𝘳𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘪𝘨𝘩𝘭𝘪𝘨𝘩𝘵𝘴 𝘱𝘳𝘰𝘵𝘦𝘤𝘵𝘪𝘯𝘨 𝘤𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘢𝘱𝘱𝘴 𝘢𝘯𝘥 𝘥𝘪𝘴𝘢𝘴𝘵𝘦𝘳 𝘳𝘦𝘤𝘰𝘷𝘦𝘳𝘺, 𝘉𝘪𝘭𝘭.
+𝘈𝘵 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘵𝘪𝘮𝘦, 𝘸𝘦’𝘳𝘦 𝘴𝘦𝘦𝘪𝘯𝘨 𝘢 𝘴𝘩𝘪𝘧𝘵 𝘪𝘯 𝘢𝘵𝘵𝘢𝘤𝘬𝘴 - 80%+ 𝘢𝘳𝘦 𝘯𝘰𝘸 𝘮𝘢𝘭𝘸𝘢𝘳𝘦-𝘧𝘳𝘦𝘦 𝘢𝘯𝘥 𝘵𝘢𝘳𝘨𝘦𝘵𝘪𝘯𝘨 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺.
+𝘞𝘦’𝘷𝘦 𝘴𝘦𝘦𝘯 𝘵𝘩𝘪𝘴 𝘱𝘭𝘢𝘺 𝘰𝘶𝘵 𝘸𝘪𝘵𝘩 𝘰𝘳𝘨𝘢𝘯𝘪𝘴𝘢𝘵𝘪𝘰𝘯𝘴 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘴𝘱𝘢𝘤𝘦, 𝘭𝘪𝘬𝘦 𝘚𝘵𝘳𝘺𝘬𝘦𝘳, 𝘸𝘩𝘦𝘳𝘦 𝘤𝘰𝘮𝘱𝘳𝘰𝘮𝘪𝘴𝘦𝘥 𝘌𝘯𝘵𝘳𝘢 𝘐𝘋 𝘤𝘳𝘦𝘥𝘦𝘯𝘵𝘪𝘢𝘭𝘴 𝘭𝘦𝘥 𝘵𝘰 𝘸𝘪𝘥𝘦𝘴𝘱𝘳𝘦𝘢𝘥 𝘢𝘤𝘤𝘦𝘴𝘴 𝘥𝘪𝘴𝘳𝘶𝘱𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘧𝘰𝘳𝘤𝘦𝘥 𝘧𝘶𝘭𝘭 𝘪𝘥𝘦𝘯𝘵𝘪𝘵𝘺 𝘳𝘦𝘣𝘶𝘪𝘭𝘥𝘴 𝘣𝘦𝘧𝘰𝘳𝘦 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘤𝘰𝘶𝘭𝘥 𝘤𝘰𝘮𝘦 𝘣𝘢𝘤𝘬 𝘰𝘯𝘭𝘪𝘯𝘦.
+𝘐𝘯 𝘵𝘩𝘰𝘴𝘦 𝘴𝘤𝘦𝘯𝘢𝘳𝘪𝘰𝘴, 𝘵𝘦𝘢𝘮𝘴 𝘤𝘢𝘯 𝘣𝘦 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘰 𝘤𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘢𝘱𝘱𝘴 𝘧𝘰𝘳 𝘥𝘢𝘺𝘴 𝘰𝘳 𝘦𝘷𝘦𝘯 𝘸𝘦𝘦𝘬𝘴.
+𝘏𝘰𝘸 𝘭𝘰𝘯𝘨 𝘤𝘰𝘶𝘭𝘥 [𝘊𝘰𝘮𝘱𝘢𝘯𝘺] 𝘰𝘱𝘦𝘳𝘢𝘵𝘦 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘭𝘪𝘬𝘦 𝘔𝘌𝘚, 𝘘𝘔𝘚 & 𝘌𝘙𝘗."
+
+That’s the shift.
+
+From generic “personalisation”… to messaging built on real signals.
+
+This is exactly how I’m using ZoomInfo - building segments around those signals, then scaling messaging without losing relevance.
+
+And that's just level 1 of GTM Studio… 👀
+
+#GTMWorkspace #sales #zoominfopartner
+===END===
+
+AUTHOR: Armand Farrokh
+URL: https://www.linkedin.com/posts/armand-farrokh_not-interested-is-the-1-objection-on-a-cold-activity-7443350253627572224-6WB9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+Not interested is the #1 objection on a cold call.
+
+Here's how I handle it.
+
+☎️ Angry Bill: "I'm not interested."
+
+🤙🏽 Me (Agree With The Objection): 
+
+"Shoot, my bad Bill. If you were, you probably would’ve cold called me while I was walking my dog in a fugue state."
+
+🤙🏽 Me (Incentivize Conversation): 
+
+"Just so no one calls you again, could you be brutally honest with me... 
+
+Is it that you’ve got a solution, this isn’t a priority, or you think I should go back to bootcamp for my crappy pitch? It’s okay if it’s #3!"
+
+‍☎️ Angry Bill: "Ha. Alright kid. It’s because I’ve got a million and one things going on."
+
+🤙🏽 Me (Get Permission Again): 
+
+"I get it Bill. My guess is this is a long shot, but I *actually* took the time to research you. 
+
+Can I take 30 seconds to share why I wanted to reach out to you specifically, then you can totally tell me to kick rocks if it’s not a fit?"
+
+***
+
+Remember: Not interested is not a real objection. 
+It's a swat.
+Agree with it to release the pressure of the sale.
+Ask a question to reveal the real objection.
+Then handle the real objection.
+
+(PS: We broke down the top 5 cold call objections on our latest YT drop, check it out and lmk what objection we should handle next 👊)
+===END===
+
+AUTHOR: John Barrows
+URL: https://www.linkedin.com/posts/johnbarrows_whoiscomingwithme-figureitout-makeithappen-activity-7449798529570607104-235V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+Wednesday I'm going live with another piece of the sales rep OS for the AI era.
+
+Personas + Personalities + AI. 
+
+Here's what I've been building:
+
+A workflow that reads a buyer's personality before I ever talk to them.
+
+Before I every talk to someone I feed their LinkedIn profile, posts, and any interviews into Claude and ask for their personality profile. 
+
+After I talk with them, I group all the calls in Otter.ai, connect it to Salesforce and ask it to analyze all my communication with the client and give suggestions on how to adjust my approach and messaging based on their personality. 
+
+No more guessing, generic pitches or wasted communication. 
+
+I'm not teaching theory. I'm showing you the actual system I run on my own deals. The prompts. The workflow. The output.
+
+This is episode 3 of me building the sales rep operating system in public. 
+
+If you've been wondering what it looks like to integrate AI into daily sales without the hype, this is the one.
+
+hashtag#whoiscomingwithme hashtag#figureitout hashtag#makeithappen
+===END===
+
+AUTHOR: Nick Abraham
+URL: https://www.linkedin.com/posts/nick-abraham_i-dont-care-how-good-ai-gets-nobody-will-activity-7449803861009219584-Gm5D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+I don't care how good AI gets. Nobody will buy a 12-month, $500,000-per-year deal from an AI agent. 
+
+I keep seeing this narrative that vendor decisions will be made agent-to-agent, and I just don’t buy it, for a few reasons:
+
+1. I get that AI is great, but is it great enough to trust it with $500K+ of budget and 0 human oversight? No.
+
+2. I’m sure it can help evaluate vendors, but weighing purchase decisions like is something you want humans to be more available to do, because of the complexities involved in the deal.
+
+3. Most importantly: the second we get to a point where agents are buying from other agents, we’ll see a whole new industry of “agent gamification” arise (i.e. I tell my agent what to say to make yours buy from mine), leading to a whole host of legal disputes.
+
+There’s lots of change coming, but ENT sellers will not get the brunt of it.
+===END===
+
+AUTHOR: Becc Holland
+URL: https://www.linkedin.com/posts/beccholland-flipthescript_hyper-personalization-doesnt-exist-activity-7440440705434583040-12mL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+“Hyper-personalization”….. doesn’t exist. 
+
+
+Personalization is 1:1. 
+EX. I saw when you said “__”
+
+Relevance is 1:many. 
+…. Like a “cohort”. 
+
+EX. Content downloads. Or CTOs. 
+
+
+
+If you can send the same email to 2 peeps...
+
+Then it's relevance-based.
+Not personalized.
+
+
+
+There’s 4 relevance-types.
+
+▪️ Firmographic—relative to business traits. (EX. Segment, size)
+▪️ Demographic—relative to human traits. (EX. Role.)
+▪️ Technographic—relative to techstack. (EX. Outreach users)
+
+& last but not least, trigger- based relevance. 
+
+
+There’s 3 main triggers:
+▪️ Inbound: Hand-raisers.
+(demo-requests)
+
+▪️ Postbound: non hand-raising, marketing actions.
+(content downloads)
+
+▪️ Bridgebound— Someone where an action occured, NOT re:your marketing.
+(buyers who changed orgs)
+
+
+
+
+In my view, in cold emails: “demographic relevance” (their role), is table stakes. 
+
+Meaning it's centered on THEIR metrics. & finding unknowns, in regards to those metrics.
+
+EX. a CFO= gross profit margin. & solves problems regarding it.
+
+
+
+
+when you start to get good...
+is when you add in techno/firmographic.
+
+get great??
++ trigger-based relevance. 
+
+
+But when you get REAL results, is when you use personalization. 
+
+
+
+
+
+In 2026, personalization isn’t a luxury. Or a unicorn that you “should do, if you can”. 
+
+It’s a must. 
+
+
+In part, because it shows respect.
+In part, because it shows research. & investment.
+In part, because it builds credibility. 
+
+
+But mostly, because it interrupts the pattern. 
+
+
+
+The pattern of 99% of emails, is 1:many... Not 1:1.
+
+Even with AI.
+AI can’t:
+
+— Pick the best personalization.
+— Or meaningful personalization.
+— Pick in-depth personalization.
+— “Hook” it, to relevance.
+
+
+For the "how":
+If you want to combo the 2 most basic ingredients (personalization + role relevance), the formula is...
+
+1st line = personalization. (w/ a title + a specific line)
+
+2nd= 5 word hook + a question that (potentially) diagnoses a problem, that they likely have, & likely don’t know about.
+
+NOT a “do you struggle with low open rates, & long sales cycles?”
+
+If they already know about it...
+But haven't moved yet: It's because it's not worth it. (based on what they know) 
+
+
+
+
+
+To pump up the volume w/ a 3rd (+ trigger based)...
+
+1st line= trigger + “but more importantly” + personalization.
+EX. I saw you downloaded __, but more importantly, saw your article on __. 
+
+2nd line, is same above. 
+
+
+
+
+More below.
+The 1-sheeter w/ 139 triggers, at the end.
++ 6 personalization buckets.
+
+
+
+Bon courage a tous, out there.🙂
+
+
+Don’t believe the dross that “personalization isn’t scalable”..
+Or “it’s only for enterprise accounts”. 
+
+
+Personalization, is for reps who want results.
+
+
+
+
+This isn’t about showing them that we know them.
+
+It's about showing them that we know something ABOUT them..
+that they don’t already know.
+
+& finding a goblin, they're unaware of. 👹
+
+
+
+Off the soap box for me.
+I’ll stop ranting now, promise. 🙂
+
+But THAT’s sales.
+That’s the type of rep, that we should & can be. :)
+===END===
+
+AUTHOR: Will Allred
+URL: https://www.linkedin.com/posts/williamallred_the-product-lead-for-internal-ai-at-ramp-activity-7449516774116454400-ubCu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+The product lead for internal ai at Ramp PERFECTLY explained why a Centralized > Decentralized AI strategy is the difference between AI Native & wasting Claude's time.
+
+If you haven't checked out the article on X, "We Built Every Employee at Ramp Their Own AI Coworker" - this is your sign that you should.
+
+They built what they're calling "Glass". It's the actualization of Jack Dorsey essay, "From Hierarchy to Intelligence".
+
+You see, I've been trying to explain this to folks... building in Claude is fun. I do it all the time.
+
+But, if I build something... how can I make sure everyone has access to what I'm doing/learning etc.?
+
+How can I benefit from the connectors, scripts, and skills already built by others?
+
+Also... how can I ensure I'm building something that isn't so brittle that I need a write a new script every time I want to run a new workflow?
+
+Building AI internally *IS* a product.
+
+Having a bunch of Claude spaghetti code floating around is a governance nightmare... it's also just not very efficient.
+
+Letting a thousands flowers come to bloom WAS a great strategy when we were still deciding the best way to bring AI to life within our companies.
+
+But, with the rise of harnessing ai (think OpenClaw)... this really needs to be a top down initiative. 
+
+A core AI owner. Department extensions of that AI owner.
+
+It's not just GTM engineering. It's back office. It's HR, its finance... its even engineering.
+
+Internal AI is a product that creates a differentiated, compounding advantage for you.
+
+It's also a dope recruiting tool haha... like do you want to work at the company that's maximizing their use of AI... or their competitor who isn't?
+
+The release of most recent Opus model in February was the starting gun.
+
+Ramp is doing the best job advertising their progress.
+We've built a very similar program to Glass internally.
+
+It's not as snazzy... we're smaller - doesn't need to be.
+(We definitely need to add some of the functionality they've built around Dojo to share skills more easily)
+
+Ramp is an AI-Native company.
+I'd argue this is the new standard of excellence.
+
+If you're looking to make the shift, I'm happy to share notes.
+just ping me
+===END===
+
+AUTHOR: Jed Mahrle
+URL: https://www.linkedin.com/posts/outboundsales_sell-better-activity-7448354351095635969-proP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5uNckBGdilTo8bQwowZ-Fe-SLPn0mPNPc
+POST:
+There are 9 variables I test in a cold email. 
+
+They're not equally important, and the order you test them in matters.
+
+Here's the hierarchy, from most impactful to least (in my opinion... of course):
+
+(1) The offer and CTA. 
+
+This is the biggest lever by a wide margin. Most "meeting ask" CTAs cap out at 2 to 3% reply rates. Offer-based CTAs, a real audit, industry benchmarks, a short video, something concrete, consistently outperform them.
+
+(2) The hook. 
+
+Your first line decides whether they keep reading. It needs to make the reason for reaching out feel believable. Not flattery, not fake personalization, not a marketing-style setup. A real observation, a pointed question, or relevant social proof.
+
+
+(3) The problem statement. 
+
+This should come directly from your sales call recordings, not your website. Your website is one-to-many. Sales calls are one-to-one. If your problem line sounds like something any competitor could write, it's not specific enough.
+
+(4) The value prop. 
+
+Your value prop has two jobs: show you understand what they want, then explain how you deliver it in a way that's actually believable. If it sounds like a generic claim any competitor could make, rewrite it.
+
+Those are the top 4. 
+
+The rest are: Social proof, objection handling, personalization, tone, and subject line. 
+
+These matter, but only after the first four are working. 
+
+Don't layer in personalization to save an email that hasn't converted on the fundamentals yet.
+
+I built a free GPT that generates complete sequences built around this framework. 
+
+You tell it your ICP and value prop, it builds the emails and tells you what to test first.
+
+Grab it here for free: https://hubs.la/Q045ZYrR0
+
+hashtag#sales
 ===END===
