@@ -1,33 +1,45 @@
 # 100Hires Portfolio: Cold Outreach Research Pipeline
 
 ## Project Overview
-This repository serves as a technical portfolio and research hub for the 100Hires application process. The current phase focuses on building an automated ETL (Extract, Transform, Load) pipeline to gather high-signal data on **B2B SaaS Cold Outreach** from top industry practitioners.
+This repository serves as a technical portfolio and research hub for the 100Hires application process. The core objective is building a resilient data pipeline to aggregate high-signal insights on **B2B SaaS Cold Outreach** from top industry practitioners. This structured data repository is designed to eventually be fed into an LLM or used to construct a step-by-step outbound playbook.
+
+---
+
+## The "Why": Expert Selection Methodology
+
+When curating the data sources, I deliberately bypassed generic "sales influencers." I focused strictly on **tactical practitioners** who treat the outbound pipeline as a quantifiable, technical system.
+
+The chosen 10 experts specialize in:
+* **A/B Testing & Data Benchmarks:** (e.g., Will Allred, Florin Tatulea)
+* **Intent-Signal & TAM Analysis:** (e.g., Eric Nowoslawski, Jed Mahrle)
+* **Systematic Personalization & Triggers:** (e.g., Becc Holland, Charlotte Johnson)
+* **Workflow & Sequence Architecture:** (e.g., Jason Bay, Josh Braun)
+* **Execution & Deal Logic:** (e.g., John Barrows, Armand Farrokh)
 
 ---
 
 ## Technical Architecture & Decision Logic
 
-As a data analyst, I’ve prioritized system resilience and scalability over "quick" solutions. Key architectural choices include:
+I prioritized system resilience and scalability, adapting to roadblocks dynamically:
 
-* **Extraction Method:** Pivoted from third-party APIs (Supadata) to a native Python implementation using `youtube-transcript-api` and `scrapetube`. This removed dependency on API keys and rate limits, allowing for a more stable, production-ready pipeline.
-* **Workflow Environment:** Used **Jupyter Notebooks (.ipynb)** within VS Code for the extraction process. This allows for state management (fetching data once and keeping it in memory) to prevent unnecessary pings to YouTube’s backend while fine-tuning the transformation logic.
-* **Separation of Concerns:** Organized the repository to separate logic from data.
-    * `/scripts/`: Contains the ETL logic and extraction notebooks.
-    * `/research/`: Dedicated storage for the final curated data and source documentation.
+* **Resilient Extraction Logic (YouTube):** Initially built a native Python implementation. When encountering aggressive IP rate-limiting on a corporate network, I pivoted to a **yt-dlp based pipeline**. This bypassed network-level blocks while successfully extracting enhanced metadata (Titles + Upload Dates) that standard APIs often restrict.
+* **Portable Engineering:** Designed the scripts with **dynamic relative pathing** using `os.path.abspath`. This ensures the pipeline remains fully functional across different environments (e.g., Office vs. Home setups) without requiring manual configuration of absolute directory paths.
+* **"Smart Manual" Extraction (LinkedIn):** Designed a targeted extraction process to safely capture high-value posts without triggering anti-bot protocols, ensuring data integrity for the master source list.
+* **Workflow Environment:** Used **Jupyter Notebooks (.ipynb)** within VS Code for state management. This allows for fetching data once and keeping it in memory to prevent unnecessary backend pings while fine-tuning transformation logic.
 
 ---
 
 ## Current Progress
 
 ### Phase 1: Environment Setup (Completed)
-- [x] Configured Cursor IDE with Claude Code and Codex.
+- [x] Configured IDE and AI tooling.
 - [x] Established GitHub version control and remote repository.
-- [x] Resolved corporate network restrictions using Cloudflare WARP.
+- [x] Resolved corporate network restrictions via library pivoting.
 
-### Phase 2: Research & Extraction (In Progress)
-- [x] **Expert Selection:** Curated a list of 10 practitioners focused on systems-based outreach logic (see `research/sources.md`).
-- [x] **YouTube ETL Pipeline:** Built an automated script to scan channels, fetch transcripts, and format them into standardized Markdown files.
-- [ ] **LinkedIn Pipeline:** Currently designing a "Smart Manual" extraction process to safely capture high-value posts without triggering platform anti-bot protocols.
+### Phase 2: Research & Extraction (Completed)
+- [x] **Expert Selection:** Curated 10 practitioners focused on systems-based outreach, documented in `research/sources.md`.
+- [x] **YouTube ETL Pipeline:** Automated extraction of transcripts and metadata, saved as standardized Markdown.
+- [x] **LinkedIn Pipeline:** Safely extracted 10 tactical posts directly from the selected experts.
 
 ---
 
@@ -36,9 +48,9 @@ As a data analyst, I’ve prioritized system resilience and scalability over "qu
 ```text
 100hires-portfolio/
 ├── scripts/
-│   └── youtube_etl.ipynb      # Automated YouTube extraction logic
+│   └── youtube_etl.ipynb      # Robust yt-dlp extraction logic (Portable/Resilient)
 ├── research/
-│   ├── sources.md             # Curated list of 10 experts & justifications
-│   ├── youtube-transcripts/   # Formatted output from the ETL pipeline
-│   └── linkedin-posts/        # (Upcoming) Structured LinkedIn data
+│   ├── sources.md             # Master index (10 experts, dates, & annotations)
+│   ├── youtube-transcripts/   # 10 formatted Markdown transcripts 
+│   └── linkedin-posts/        # 10 raw text Markdown files of high-value posts
 └── README.md
