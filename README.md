@@ -22,9 +22,9 @@ The chosen 10 experts specialize in:
 
 I prioritized system resilience and scalability, adapting to roadblocks dynamically:
 
-* **Resilient Extraction Logic (YouTube):** Initially built a native Python implementation. When encountering aggressive IP rate-limiting on a corporate network, I pivoted to a **yt-dlp based pipeline**. This bypassed network-level blocks while successfully extracting enhanced metadata (Titles + Upload Dates) that standard APIs often restrict.
+* **Native Extraction vs. Third-Party APIs:** I intentionally chose a native Python implementation over third-party SaaS wrappers (e.g., Supadata). This decision was driven by a requirement for **system independence**—ensuring the pipeline remains functional without external API key dependencies, usage quotas, or third-party service costs.
+* **Resilient Extraction Logic (YouTube):** Initially built a native Python implementation using `youtube-transcript-api`. When encountering aggressive IP rate-limiting on a corporate network, I pivoted to a **yt-dlp based pipeline**. This bypassed network-level blocks while successfully extracting enhanced metadata (Titles + Upload Dates) that standard APIs often restrict.
 * **Portable Engineering:** Designed the scripts with **dynamic relative pathing** using `os.path.abspath`. This ensures the pipeline remains fully functional across different environments (e.g., Office vs. Home setups) without requiring manual configuration of absolute directory paths.
-* **"Smart Manual" Extraction (LinkedIn):** Designed a targeted extraction process to safely capture high-value posts without triggering anti-bot protocols, ensuring data integrity for the master source list.
 * **Workflow Environment:** Used **Jupyter Notebooks (.ipynb)** within VS Code for state management. This allows for fetching data once and keeping it in memory to prevent unnecessary backend pings while fine-tuning transformation logic.
 
 ---
@@ -33,16 +33,17 @@ I prioritized system resilience and scalability, adapting to roadblocks dynamica
 
 Building this pipeline required navigating several "real-world" infrastructure constraints:
 
-1. **The 429 Rate-Limit Barrier:** * **Issue:** The initial Python implementation using `youtube-transcript-api` was flagged and blocked by corporate network security/YouTube rate-limits.
-   * **Solution:** Pivoted to a `yt-dlp` backend. This provided a more robust header-emulation layer that bypassed the IP blocks while allowing for high-speed metadata extraction.
+1. **The 429 Rate-Limit Barrier:**
+   * **Issue:** Initial extraction attempts were flagged and blocked by corporate network security/YouTube rate-limits.
+   * **Solution:** Pivoted to a `yt-dlp` backend. This provided a more robust header-emulation layer that bypassed IP blocks while allowing for high-speed metadata extraction.
 
 2. **Environment Portability (Office vs. Home):**
    * **Issue:** Absolute file paths created breaking changes when switching between different workstations.
-   * **Solution:** Refactored the entire project to use **Dynamic Relative Pathing** via `os.path.abspath`. The system now self-corrects its directory mapping regardless of the host machine's folder structure.
+   * **Solution:** Refactored the project to use **Dynamic Relative Pathing**. The system self-corrects its directory mapping regardless of the host machine's folder structure.
 
 3. **Metadata Fragmentation:**
    * **Issue:** Standard transcript libraries often return raw text without context (Title/Date), making the research database difficult to audit.
-   * **Solution:** Engineered the V2 pipeline to perform a "Single-Pass Extraction" that bundles the transcript content with verified metadata (Titles and Upload Dates) directly into the Markdown headers.
+   * **Solution:** Engineered a "Single-Pass Extraction" that bundles transcript content with verified metadata (Titles and Upload Dates) directly into the Markdown headers.
 
 ---
 
