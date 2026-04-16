@@ -29,6 +29,23 @@ I prioritized system resilience and scalability, adapting to roadblocks dynamica
 
 ---
 
+## Challenges & Engineering Solutions
+
+Building this pipeline required navigating several "real-world" infrastructure constraints:
+
+1. **The 429 Rate-Limit Barrier:** * **Issue:** The initial Python implementation using `youtube-transcript-api` was flagged and blocked by corporate network security/YouTube rate-limits.
+   * **Solution:** Pivoted to a `yt-dlp` backend. This provided a more robust header-emulation layer that bypassed the IP blocks while allowing for high-speed metadata extraction.
+
+2. **Environment Portability (Office vs. Home):**
+   * **Issue:** Absolute file paths created breaking changes when switching between different workstations.
+   * **Solution:** Refactored the entire project to use **Dynamic Relative Pathing** via `os.path.abspath`. The system now self-corrects its directory mapping regardless of the host machine's folder structure.
+
+3. **Metadata Fragmentation:**
+   * **Issue:** Standard transcript libraries often return raw text without context (Title/Date), making the research database difficult to audit.
+   * **Solution:** Engineered the V2 pipeline to perform a "Single-Pass Extraction" that bundles the transcript content with verified metadata (Titles and Upload Dates) directly into the Markdown headers.
+
+---
+
 ## Current Progress
 
 ### Phase 1: Environment Setup (Completed)
